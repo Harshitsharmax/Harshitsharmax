@@ -1,8 +1,8 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWllcnhzOHBocXprcHFndXV5MmNrN3Nud2M4ajQ3MGFwYnprNTFzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://harshitsharma.io)
 
 <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/ep8OqxV2Y0nViaN6rl990_eBxyWgke5MEwLsj0m_sJg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gva2l0dGVu/LWxhcHRvcC1jb2Rp/bmctaGljeG94M2tn/dzNrZXc3MS5naWY.gif">
+<h3 align="center">Passionate coder with a flair for innovation and collaboration, crafting elegant solutions one commit at a time.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsharmax&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsharmax" /> </p>
 
@@ -14,7 +14,7 @@ img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/ep
 
 - 📫 How to reach me **harshitsharma8903@gmail.com**
 
-- ⚡ Fun fact **Machine learning algorithms are like cats—sometimes they do exactly what you want them to do, and sometimes they ignore you completely and do their own thing! 🐱💻**
+- ⚡ Fun fact **AI is simply Data Analysis and Pattern Recognition.💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,3 @@ img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/ep
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsharmax&show_icons=true&locale=en" alt="harshitsharmax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsharmax&" alt="harshitsharmax" /></p>
-
